@@ -1,0 +1,9 @@
+c:\users\vexe\documents\visual studio 2010\Projects\ScreenGuardian\ScreenGuardian\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\vexe\documents\visual studio 2010\Projects\ScreenGuardian\ScreenGuardian\obj\x86\Debug\ScreenGuardian.Form1.resources
+c:\users\vexe\documents\visual studio 2010\Projects\ScreenGuardian\ScreenGuardian\obj\x86\Debug\ScreenGuardian.Properties.Resources.resources
+c:\users\vexe\documents\visual studio 2010\Projects\ScreenGuardian\ScreenGuardian\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\vexe\documents\visual studio 2010\Projects\ScreenGuardian\ScreenGuardian\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\vexe\documents\visual studio 2010\Projects\ScreenGuardian\ScreenGuardian\bin\Debug\ScreenGuardian.exe
+c:\users\vexe\documents\visual studio 2010\Projects\ScreenGuardian\ScreenGuardian\bin\Debug\ScreenGuardian.pdb
+c:\users\vexe\documents\visual studio 2010\Projects\ScreenGuardian\ScreenGuardian\obj\x86\Debug\ScreenGuardian.exe
+c:\users\vexe\documents\visual studio 2010\Projects\ScreenGuardian\ScreenGuardian\obj\x86\Debug\ScreenGuardian.pdb

@@ -26,3 +26,5 @@ in every 't' (t is the time interval you specifed)
 - To bring the window again and stop ScreenLogging, you have to go to the parent directory of your ImageFolder
 and create a file called "SilentLogging.OFF" .. so if you're saving the images in a folder on the desktop, then 
 you have to create the file on the desktop as well.
+
+![alt tag](http://i.imgur.com/usRCvPc.png)
